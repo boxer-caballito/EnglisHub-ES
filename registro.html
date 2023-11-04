@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro</title>
+    <link rel="stylesheet" href="registro.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <section>
+        <div class="color"></div>
+        <div class="color"></div>
+        <div class="color"></div>
+        <div class="box">
+            <div class="square" style="--i:0;"></div>
+            <div class="square" style="--i:1;"></div>
+            <div class="square" style="--i:2;"></div>
+            <div class="square" style="--i:3;"></div>
+            <div class="square" style="--i:4;"></div>
+            <div class="container">
+                <div class="from">
+                    <h2>Registrarse</h2>
+                    <form id="register-form">
+                        <div class="inputBox">
+                            <input type="text" id="username" placeholder="Nombre de usuario" required>
+                        </div>
+                        <div class="inputBox">
+                            <input type="text" id="realname" placeholder="Nombre real" required>
+                        </div>
+                        <div class="inputBox">
+                            <input type="email" id="email" placeholder="Correo electrónico" required>
+                        </div>
+                        <div class="inputBox">
+                            <input type="password" id="password" placeholder="Contraseña" required>
+                        </div>
+                        <div class="inputBox">
+                            <input type="date" id="birthdate" required>
+                        </div>
+                        <div class="inputBox">
+                            <input type="submit" value="Registrarse">
+                        </div>
+                    </form>
+                    <div id="registration-message" style="display: none;">
+                        <p>Los desarrolladores están registrando tu cuenta.</p>
+                        <button class="maxW"><a href="index.html">Volver a la página de registro</a></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script src="registro.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1489 @@
+{
+    "tecnologias": [
+      {
+        "nombre": "HTML",
+        "version": "5.3",
+        "enlace": "https://developer.mozilla.org/es/docs/Web/HTML"
+      },
+      {
+        "nombre": "CSS",
+        "version": "3",
+        "enlace": "https://developer.mozilla.org/es/docs/Web/CSS"
+      },
+      {
+        "nombre": "JavaScript",
+        "version": "ES6",
+        "enlace": "https://developer.mozilla.org/es/docs/Web/JavaScript"
+      },
+      {
+        "nombre": "React",
+        "version": "17.0.2",
+        "enlace": "https://reactjs.org/"
+      },
+      {
+        "nombre": "Redux",
+        "version": "4.1.1",
+        "enlace": "https://redux.js.org/"
+      },
+      {
+        "nombre": "Node.js",
+        "version": "14.17.5",
+        "enlace": "https://nodejs.org/"
+      },
+      {
+        "nombre": "Express",
+        "version": "4.17.1",
+        "enlace": "https://expressjs.com/"
+      },
+      {
+        "nombre": "MongoDB",
+        "version": "4.4.6",
+        "enlace": "https://www.mongodb.com/"
+      },
+      {
+        "nombre": "Webpack",
+        "version": "5.50.0",
+        "enlace": "https://webpack.js.org/"
+      },
+      {
+        "nombre": "GraphQL",
+        "version": "15.5.1",
+        "enlace": "https://graphql.org/"
+      },
+      {
+        "nombre": "Babel",
+        "version": "7.15.0",
+        "enlace": "https://babeljs.io/"
+      },
+      {
+        "nombre": "Sass",
+        "version": "1.43.4",
+        "enlace": "https://sass-lang.com/"
+      },
+      {
+        "nombre": "Vue.js",
+        "version": "3.2.29",
+        "enlace": "https://vuejs.org/"
+      },
+      {
+        "nombre": "Angular",
+        "version": "12.2.1",
+        "enlace": "https://angular.io/"
+      },
+      {
+        "nombre": "Django",
+        "version": "3.2.7",
+        "enlace": "https://www.djangoproject.com/"
+      },
+      {
+        "nombre": "Flask",
+        "version": "2.0.1",
+        "enlace": "https://flask.palletsprojects.com/"
+      },
+      {
+        "nombre": "Ruby on Rails",
+        "version": "6.1.4",
+        "enlace": "https://rubyonrails.org/"
+      },
+      {
+        "nombre": "Spring Boot",
+        "version": "2.5.4",
+        "enlace": "https://spring.io/projects/spring-boot"
+      },
+      {
+        "nombre": "Laravel",
+        "version": "8.57.0",
+        "enlace": "https://laravel.com/"
+      },
+      {
+        "nombre": "Flutter",
+        "version": "2.2.3",
+        "enlace": "https://flutter.dev/"
+      },
+      {
+        "nombre": "React Native",
+        "version": "0.65.1",
+        "enlace": "https://reactnative.dev/"
+      },
+      {
+        "nombre": "Ionic",
+        "version": "6.17.1",
+        "enlace": "https://ionicframework.com/"
+      },
+      {
+        "nombre": "Electron",
+        "version": "13.5.1",
+        "enlace": "https://www.electronjs.org/"
+      },
+      {
+        "nombre": "Firebase",
+        "version": "9.0.2",
+        "enlace": "https://firebase.google.com/"
+      },
+      {
+        "nombre": "AWS Amplify",
+        "version": "5.1.3",
+        "enlace": "https://aws.amazon.com/amplify/"
+      },
+      {
+        "nombre": "Google Cloud Platform",
+        "version": "348.0.0",
+        "enlace": "https://cloud.google.com/"
+      },
+      {
+        "nombre": "Microsoft Azure",
+        "version": "2.11.0",
+        "enlace": "https://azure.microsoft.com/"
+      },
+      {
+        "nombre": "Heroku",
+        "version": "7.59.2",
+        "enlace": "https://www.heroku.com/"
+      },
+      {
+        "nombre": "Netlify",
+        "version": "9.1.0",
+        "enlace": "https://www.netlify.com/"
+      },
+      {
+        "nombre": "Docker",
+        "version": "20.10.8",
+        "enlace": "https://www.docker.com/"
+      },
+      {
+        "nombre": "Kubernetes",
+        "version": "1.22.1",
+        "enlace": "https://kubernetes.io/"
+      },
+      {
+        "nombre": "Git",
+        "version": "2.33.0",
+        "enlace": "https://git-scm.com/"
+      },
+      {
+        "nombre": "GitHub",
+        "version": "2.3.4",
+        "enlace": "https://github.com/"
+      },
+      {
+        "nombre": "Bitbucket",
+        "version": "7.11.0",
+        "enlace": "https://bitbucket.org/"
+      },
+      {
+        "nombre": "Jira",
+        "version": "8.17.0",
+        "enlace": "https://www.atlassian.com/software/jira"
+      },
+      {
+        "nombre": "Trello",
+        "version": "2.18.0",
+        "enlace": "https://trello.com/"
+      },
+      {
+        "nombre": "VSCode",
+        "version": "1.60.0",
+        "enlace": "https://code.visualstudio.com/"
+      },
+      {
+        "nombre": "IntelliJ IDEA",
+        "version": "2021.2.1",
+        "enlace": "https://www.jetbrains.com/idea/"
+      },
+      {
+        "nombre": "PyCharm",
+        "version": "2021.2.1",
+        "enlace": "https://www.jetbrains.com/pycharm/"
+      },
+      {
+        "nombre": "WebStorm",
+        "version": "2021.2.1",
+        "enlace": "https://www.jetbrains.com/webstorm/"
+      },
+      {
+        "nombre": "Eclipse",
+        "version": "2021-06",
+        "enlace": "https://www.eclipse.org/"
+      },
+      {
+        "nombre": "Postman",
+        "version": "9.3.3",
+        "enlace": "https://www.postman.com/"
+      },
+      {
+        "nombre": "Insomnia",
+        "version": "2021.5.3",
+        "enlace": "https://insomnia.rest/"
+      },
+      {
+        "nombre": "Swagger",
+        "version": "3.0.0",
+        "enlace": "https://swagger.io/"
+      },
+      {
+        "nombre": "Jenkins",
+        "version": "2.303.1",
+        "enlace": "https://www.jenkins.io/"
+      },
+      {
+        "nombre": "CircleCI",
+        "version": "1.1.13594",
+        "enlace": "https://circleci.com/"
+      },
+      {
+        "nombre": "Travis CI",
+        "version": "1.0.0",
+        "enlace": "https://www.travis-ci.com/"
+      },
+      {
+        "nombre": "JUnit",
+        "version": "5.8.0",
+        "enlace": "https://junit.org/junit5/"
+      },
+      {
+        "nombre": "Mocha",
+        "version": "9.1.2",
+        "enlace": "https://mochajs.org/"
+      },
+      {
+        "nombre": "Cypress",
+        "version": "8.3.1",
+        "enlace": "https://www.cypress.io/"
+      },
+      {
+        "nombre": "Jest",
+        "version": "27.0.6",
+        "enlace": "https://jestjs.io/"
+      },
+      {
+        "nombre": "Enzyme",
+        "version": "3.11.0",
+        "enlace": "https://enzymejs.github.io/enzyme/"
+      },
+      {
+        "nombre": "Prettier",
+        "version": "2.4.1",
+        "enlace": "https://prettier.io/"
+      },
+      {
+        "nombre": "ESLint",
+        "version": "8.0.0",
+        "enlace": "https://eslint.org/"
+      },
+      {
+        "nombre": "SonarQube",
+        "version": "9.1",
+        "enlace": "https://www.sonarqube.org/"
+      },
+      {
+        "nombre": "Gatsby",
+        "version": "4.1.3",
+        "enlace": "https://www.gatsbyjs.com/"
+      },
+      {
+        "nombre": "Next.js",
+        "version": "11.1.0",
+        "enlace": "https://nextjs.org/"
+      },
+      {
+        "nombre": "Nuxt.js",
+        "version": "2.15.7",
+        "enlace": "https://nuxtjs.org/"
+      },
+      {
+        "nombre": "Tailwind CSS",
+        "version": "2.2.19",
+        "enlace": "https://tailwindcss.com/"
+      },
+      {
+        "nombre": "Bootstrap",
+        "version": "5.1.1",
+        "enlace": "https://getbootstrap.com/"
+      },
+      {
+        "nombre": "Material-UI",
+        "version": "4.12.3",
+        "enlace": "https://material-ui.com/"
+      },
+      {
+        "nombre": "Ant Design",
+        "version": "4.16.11",
+        "enlace": "https://ant.design/"
+      },
+      {
+        "nombre": "Highcharts",
+        "version": "9.2.2",
+        "enlace": "https://www.highcharts.com/"
+      },
+      {
+        "nombre": "Chart.js",
+        "version": "3.7.0",
+        "enlace": "https://www.chartjs.org/"
+      },
+      {
+        "nombre": "D3.js",
+        "version": "7.1.1",
+        "enlace": "https://d3js.org/"
+      },
+      {
+        "nombre": "Google Maps API",
+        "version": "3",
+        "enlace": "https://developers.google.com/maps/documentation/javascript/3.exp/reference"
+      },
+      {
+        "nombre": "Leaflet",
+        "version": "1.7.1",
+        "enlace": "https://leafletjs.com/"
+      },
+      {
+        "nombre": "AWS SDK",
+        "version": "2.1031.0",
+        "enlace": "https://aws.amazon.com/sdk-for-javascript/"
+      },
+      {
+        "nombre": "Google Cloud Client Libraries",
+        "version": "2.9.0",
+        "enlace": "https://cloud.google.com/apis/docs/cloud-client-libraries"
+      },
+      {
+        "nombre": "React Testing Library",
+        "version": "12.0.0",
+        "enlace": "https://testing-library.com/docs/react-testing-library/intro/"
+      },
+      {
+        "nombre": "Cucumber",
+        "version": "7.3.0",
+        "enlace": "https://cucumber.io/"
+      },
+      {
+        "nombre": "Swagger UI",
+        "version": "4.1.7",
+        "enlace": "https://swagger.io/tools/swagger-ui/"
+      },
+      {
+        "nombre": "Cordova",
+        "version": "10.0.0",
+        "enlace": "https://cordova.apache.org/"
+      },
+      {
+        "nombre": "Expo",
+        "version": "43.0.0",
+        "enlace": "https://expo.dev/"
+      },
+      {
+        "nombre": "Ionic Native",
+        "version": "5.36.0",
+        "enlace": "https://ionicframework.com/docs/native"
+      },
+      {
+        "nombre": "React Router",
+        "version": "6.0.2",
+        "enlace": "https://reactrouter.com/"
+      },
+      {
+        "nombre": "Vue Router",
+        "version": "4.0.12",
+        "enlace": "https://router.vuejs.org/"
+      },
+      {
+        "nombre": "React Native Navigation",
+        "version": "7.16.0",
+        "enlace": "https://wix.github.io/react-native-navigation/docs/before-you-start/"
+      },
+      {
+        "nombre": "Webpack",
+        "version": "5.50.0",
+        "enlace": "https://webpack.js.org/"
+      },
+      {
+        "nombre": "Parcel",
+        "version": "2.2.0",
+        "enlace": "https://parceljs.org/"
+      },
+      {
+        "nombre": "Rollup",
+        "version": "2.56.1",
+        "enlace": "https://rollupjs.org/"
+      },
+      {
+        "nombre": "Gulp",
+        "version": "4.0.2",
+        "enlace": "https://gulpjs.com/"
+      },
+      {
+        "nombre": "Grunt",
+        "version": "1.4.1",
+        "enlace": "https://gruntjs.com/"
+      },
+      {
+        "nombre": "Babel",
+        "version": "7.15.0",
+        "enlace": "https://babeljs.io/"
+      },
+      {
+        "nombre": "TypeScript",
+        "version": "4.4.2",
+        "enlace": "https://www.typescriptlang.org/"
+      },
+      {
+        "nombre": "CoffeeScript",
+        "version": "2.6.0",
+        "enlace": "https://coffeescript.org/"
+      },
+      {
+        "nombre": "Stylus",
+        "version": "0.56.7",
+        "enlace": "http://stylus-lang.com/"
+      },
+      {
+        "nombre": "Less",
+        "version": "4.1.1",
+        "enlace": "http://lesscss.org/"
+      },
+      {
+        "nombre": "Sass",
+        "version": "1.43.4",
+        "enlace": "https://sass-lang.com/"
+      },
+      {
+        "nombre": "Materialize CSS",
+        "version": "1.0.0",
+        "enlace": "https://materializecss.com/"
+      },
+      {
+        "nombre": "Foundation",
+        "version": "6.6.3",
+        "enlace": "https://get.foundation/"
+      },
+      {
+        "nombre": "Bulma",
+        "version": "0.9.3",
+        "enlace": "https://bulma.io/"
+      },
+      {
+        "nombre": "Semantic UI",
+        "version": "2.4.2",
+        "enlace": "https://semantic-ui.com/"
+      },
+      {
+        "nombre": "Ant Design",
+        "version": "4.16.11",
+        "enlace": "https://ant.design/"
+      },
+      {
+        "nombre": "Chakra UI",
+        "version": "1.6.6",
+        "enlace": "https://chakra-ui.com/"
+      },
+      {
+        "nombre": "Bootstrap",
+        "version": "5.1.1",
+        "enlace": "https://getbootstrap.com/"
+      },
+      {
+        "nombre": "Bulma",
+        "version": "0.9.3",
+        "enlace": "https://bulma.io/"
+      },
+      {
+        "nombre": "Semantic UI",
+        "version": "2.4.2",
+        "enlace": "https://semantic-ui.com/"
+      },
+      {
+        "nombre": "Ant Design",
+        "version": "4.16.11",
+        "enlace": "https://ant.design/"
+      },
+      {
+        "nombre": "Chakra UI",
+        "version": "1.6.6",
+        "enlace": "https://chakra-ui.com/"
+      },
+      {
+        "nombre": "Material-UI",
+        "version": "4.12.3",
+        "enlace": "https://material-ui.com/"
+      },
+      {
+        "nombre": "Tailwind CSS",
+        "version": "2.2.19",
+        "enlace": "https://tailwindcss.com/"
+      },
+      {
+        "nombre": "Emotion",
+        "version": "11.6.0",
+        "enlace": "https://emotion.sh/docs/introduction"
+      },
+      {
+        "nombre": "Styled Components",
+        "version": "5.3.3",
+        "enlace": "https://styled-components.com/"
+      },
+      {
+        "nombre": "JSS",
+        "version": "10.8.0",
+        "enlace": "https://cssinjs.org/"
+      },
+      {
+        "nombre": "Jest",
+        "version": "27.0.6",
+        "enlace": "https://jestjs.io/"
+      },
+      {
+        "nombre": "Mocha",
+        "version": "9.1.2",
+        "enlace": "https://mochajs.org/"
+      },
+      {
+        "nombre": "Cypress",
+        "version": "8.3.1",
+        "enlace": "https://www.cypress.io/"
+      },
+      {
+        "nombre": "Enzyme",
+        "version": "3.11.0",
+        "enlace": "https://enzymejs.github.io/enzyme/"
+      },
+      {
+        "nombre": "Puppeteer",
+        "version": "12.0.0",
+        "enlace": "https://pptr.dev/"
+      },
+      {
+        "nombre": "Maven",
+        "version": "3.8.2",
+        "enlace": "https://maven.apache.org/"
+      },
+      {
+        "nombre": "Gradle",
+        "version": "7.2",
+        "enlace": "https://gradle.org/"
+      },
+      {
+        "nombre": "npm",
+        "version": "7.21.1",
+        "enlace": "https://www.npmjs.com/"
+      },
+      {
+        "nombre": "Yarn",
+        "version": "1.22.15",
+        "enlace": "https://yarnpkg.com/"
+      },
+      {
+        "nombre": "NuGet",
+        "version": "5.11.0",
+        "enlace": "https://www.nuget.org/"
+      },
+      {
+        "nombre": "pip",
+        "version": "21.2.4",
+        "enlace": "https://pypi.org/project/pip/"
+      },
+      {
+        "nombre": "Composer",
+        "version": "2.1.9",
+        "enlace": "https://getcomposer.org/"
+      },
+      {
+        "nombre": "RubyGems",
+        "version": "3.2.28",
+        "enlace": "https://rubygems.org/"
+      },
+      {
+        "nombre": "Go Modules",
+        "version": "1.17.1",
+        "enlace": "https://github.com/golang/go/wiki/Modules"
+      },
+      {
+        "nombre": "Pipenv",
+        "version": "2021.5.29",
+        "enlace": "https://pipenv.pypa.io/"
+      },
+      {
+        "nombre": "Rust Cargo",
+        "version": "1.55.0",
+        "enlace": "https://doc.rust-lang.org/cargo/"
+      },
+      {
+        "nombre": "Docker",
+        "version": "20.10.8",
+        "enlace": "https://www.docker.com/"
+      },
+      {
+        "nombre": "Kubernetes",
+        "version": "1.22.1",
+        "enlace": "https://kubernetes.io/"
+      },
+      {
+        "nombre": "Ansible",
+        "version": "2.10.11",
+        "enlace": "https://www.ansible.com/"
+      },
+      {
+        "nombre": "Terraform",
+        "version": "1.0.8",
+        "enlace": "https://www.terraform.io/"
+      },
+      {
+        "nombre": "Vagrant",
+        "version": "2.2.18",
+        "enlace": "https://www.vagrantup.com/"
+      },
+      {
+        "nombre": "VirtualBox",
+        "version": "6.1.26",
+        "enlace": "https://www.virtualbox.org/"
+      },
+      {
+        "nombre": "AWS CLI",
+        "version": "2.3.4",
+        "enlace": "https://aws.amazon.com/cli/"
+      },
+      {
+        "nombre": "Google Cloud SDK",
+        "version": "359.0.0",
+        "enlace": "https://cloud.google.com/sdk"
+      },
+      {
+        "nombre": "Azure CLI",
+        "version": "2.33.0",
+        "enlace": "https://docs.microsoft.com/es-es/cli/azure/install-azure-cli"
+      },
+      {
+        "nombre": "Heroku CLI",
+        "version": "7.59.2",
+        "enlace": "https://devcenter.heroku.com/articles/heroku-cli"
+      },
+      {
+        "nombre": "Netlify CLI",
+        "version": "6.17.1",
+        "enlace": "https://docs.netlify.com/cli/get-started/"
+      },
+      {
+        "nombre": "Git",
+        "version": "2.33.0",
+        "enlace": "https://git-scm.com/"
+      },
+      {
+        "nombre": "GitHub",
+        "version": "2.3.4",
+        "enlace": "https://github.com/"
+      },
+      {
+        "nombre": "Bitbucket",
+        "version": "7.11.0",
+        "enlace": "https://bitbucket.org/"
+      },
+      {
+        "nombre": "GitLab",
+        "version": "14.2.3",
+        "enlace": "https://gitlab.com/"
+      },
+      {
+        "nombre": "Jira",
+        "version": "8.17.0",
+        "enlace": "https://www.atlassian.com/software/jira"
+      },
+      {
+        "nombre": "Trello",
+        "version": "2.18.0",
+        "enlace": "https://trello.com/"
+      },
+      {
+        "nombre": "VSCode",
+        "version": "1.60.0",
+        "enlace": "https://code.visualstudio.com/"
+      },
+      {
+        "nombre": "IntelliJ IDEA",
+        "version": "2021.2.1",
+        "enlace": "https://www.jetbrains.com/idea/"
+      },
+      {
+        "nombre": "PyCharm",
+        "version": "2021.2.1",
+        "enlace": "https://www.jetbrains.com/pycharm/"
+      },
+      {
+        "nombre": "WebStorm",
+        "version": "2021.2.1",
+        "enlace": "https://www.jetbrains.com/webstorm/"
+      },
+      {
+        "nombre": "Eclipse",
+        "version": "2021-06",
+        "enlace": "https://www.eclipse.org/"
+      },
+      {
+        "nombre": "Visual Studio",
+        "version": "2022",
+        "enlace": "https://visualstudio.microsoft.com/"
+      },
+      {
+        "nombre": "Xcode",
+        "version": "13",
+        "enlace": "https://developer.apple.com/xcode/"
+      },
+      {
+        "nombre": "Android Studio",
+        "version": "2020.3.1",
+        "enlace": "https://developer.android.com/studio"
+      },
+      {
+        "nombre": "Postman",
+        "version": "9.3.3",
+        "enlace": "https://www.postman.com/"
+      },
+      {
+        "nombre": "Insomnia",
+        "version": "2021.5.3",
+        "enlace": "https://insomnia.rest/"
+      },
+      {
+        "nombre": "Swagger",
+        "version": "3.0.0",
+        "enlace": "https://swagger.io/"
+      },
+      {
+        "nombre": "Jenkins",
+        "version": "2.303.1",
+        "enlace": "https://www.jenkins.io/"
+      },
+      {
+        "nombre": "CircleCI",
+        "version": "1.1.13594",
+        "enlace": "https://circleci.com/"
+      },
+      {
+        "nombre": "Travis CI",
+        "version": "1.0.0",
+        "enlace": "https://www.travis-ci.com/"
+      },
+      {
+        "nombre": "GitHub Actions",
+        "version": "2.317.0",
+        "enlace": "https://github.com/features/actions"
+      },
+      {
+        "nombre": "JUnit",
+        "version": "5.8.0",
+        "enlace": "https://junit.org/junit5/"
+      },
+      {
+        "nombre": "TestNG",
+        "version": "7.4.0",
+        "enlace": "https://testng.org/"
+      },
+      {
+        "nombre": "Mocha",
+        "version": "9.1.2",
+        "enlace": "https://mochajs.org/"
+      },
+      {
+        "nombre": "Cucumber",
+        "version": "7.3.0",
+        "enlace": "https://cucumber.io/"
+      },
+      {
+        "nombre": "Jasmine",
+        "version": "3.10.1",
+        "enlace": "https://jasmine.github.io/"
+      },
+      {
+        "nombre": "Karma",
+        "version": "6.3.8",
+        "enlace": "https://karma-runner.github.io/"
+      },
+      {
+        "nombre": "Jest",
+        "version": "27.0.6",
+        "enlace": "https://jestjs.io/"
+      },
+      {
+        "nombre": "Enzyme",
+        "version": "3.11.0",
+        "enlace": "https://enzymejs.github.io/enzyme/"
+      },
+      {
+        "nombre": "Puppeteer",
+        "version": "12.0.0",
+        "enlace": "https://pptr.dev/"
+      },
+      {
+        "nombre": "Cypress",
+        "version": "8.3.1",
+        "enlace": "https://www.cypress.io/"
+      },
+      {
+        "nombre": "Selenium",
+        "version": "4.0.0-beta-4",
+        "enlace": "https://www.selenium.dev/"
+      },
+      {
+        "nombre": "Protractor",
+        "version": "7.0.0",
+        "enlace": "http://www.protractortest.org/"
+      },
+      {
+        "nombre": "Appium",
+        "version": "2.4.1",
+        "enlace": "http://appium.io/"
+      },
+      {
+        "nombre": "Cucumber",
+        "version": "7.3.0",
+        "enlace": "https://cucumber.io/"
+      },
+      {
+        "nombre": "JBehave",
+        "version": "4.6.0",
+        "enlace": "https://jbehave.org/"
+      },
+      {
+        "nombre": "TestRail",
+        "version": "5.11",
+        "enlace": "https://www.gurock.com/testrail/"
+      },
+      {
+        "nombre": "Zephyr",
+        "version": "10.6",
+        "enlace": "https://www.getzephyr.com/"
+      },
+      {
+        "nombre": "SonarQube",
+        "version": "9.1",
+        "enlace": "https://www.sonarqube.org/"
+      },
+      {
+        "nombre": "SonarCloud",
+        "version": "3.1.0",
+        "enlace": "https://sonarcloud.io/"
+      },
+      {
+        "nombre": "Gatsby",
+        "version": "4.1.3",
+        "enlace": "https://www.gatsbyjs.com/"
+      },
+      {
+        "nombre": "Next.js",
+        "version": "11.1.0",
+        "enlace": "https://nextjs.org/"
+      },
+      {
+        "nombre": "Nuxt.js",
+        "version": "2.15.7",
+        "enlace": "https://nuxtjs.org/"
+      },
+      {
+        "nombre": "React Testing Library",
+        "version": "12.0.0",
+        "enlace": "https://testing-library.com/docs/react-testing-library/intro/"
+      },
+      {
+        "nombre": "Vue Testing Library",
+        "version": "2.0.0",
+        "enlace": "https://testing-library.com/docs/vue-testing-library/intro/"
+      },
+      {
+        "nombre": "Jest",
+        "version": "27.0.6",
+        "enlace": "https://jestjs.io/"
+      },
+      {
+        "nombre": "Mocha",
+        "version": "9.1.2",
+        "enlace": "https://mochajs.org/"
+      },
+      {
+        "nombre": "Cypress",
+        "version": "8.3.1",
+        "enlace": "https://www.cypress.io/"
+      },
+      {
+        "nombre": "Enzyme",
+        "version": "3.11.0",
+        "enlace": "https://enzymejs.github.io/enzyme/"
+      },
+      {
+        "nombre": "Puppeteer",
+        "version": "12.0.0",
+        "enlace": "https://pptr.dev/"
+      },
+      {
+        "nombre": "Appium",
+        "version": "2.4.1",
+        "enlace": "http://appium.io/"
+      },
+      {
+        "nombre": "Cucumber",
+        "version": "7.3.0",
+        "enlace": "https://cucumber.io/"
+      },
+      {
+        "nombre": "JBehave",
+        "version": "4.6.0",
+        "enlace": "https://jbehave.org/"
+      },
+      {
+        "nombre": "TestRail",
+        "version": "5.11",
+        "enlace": "https://www.gurock.com/testrail/"
+      },
+      {
+        "nombre": "Zephyr",
+        "version": "10.6",
+        "enlace": "https://www.getzephyr.com/"
+      },
+      {
+        "nombre": "SonarQube",
+        "version": "9.1",
+        "enlace": "https://www.sonarqube.org/"
+      },
+      {
+        "nombre": "SonarCloud",
+        "version": "3.1.0",
+        "enlace": "https://sonarcloud.io/"
+      },
+      {
+        "nombre": "Gatsby",
+        "version": "4.1.3",
+        "enlace": "https://www.gatsbyjs.com/"
+      },
+      {
+        "nombre": "Next.js",
+        "version": "11.1.0",
+        "enlace": "https://nextjs.org/"
+      },
+      {
+        "nombre": "Nuxt.js",
+        "version": "2.15.7",
+        "enlace": "https://nuxtjs.org/"
+      },
+      {
+        "nombre": "React Testing Library",
+        "version": "12.0.0",
+        "enlace": "https://testing-library.com/docs/react-testing-library/intro/"
+      },
+      {
+        "nombre": "Vue Testing Library",
+        "version": "2.0.0",
+        "enlace": "https://testing-library.com/docs/vue-testing-library/intro/"
+      },
+      {
+        "nombre": "React Native Testing Library",
+        "version": "6.0.0",
+        "enlace": "https://callstack.github.io/react-native-testing-library/"
+      },
+      {
+        "nombre": "Flutter Test",
+        "version": "2.2.3",
+        "enlace": "https://flutter.dev/docs/testing"
+      },
+      {
+        "nombre": "Cypress",
+        "version": "8.3.1",
+        "enlace": "https://www.cypress.io/"
+      },
+      {
+        "nombre": "Detox",
+        "version": "20.12.0",
+        "enlace": "https://github.com/wix/Detox"
+      },
+      {
+        "nombre": "Appium",
+        "version": "2.4.1",
+        "enlace": "http://appium.io/"
+      },
+      {
+        "nombre": "XCUITest",
+        "version": "3.7.1",
+        "enlace": "https://developer.apple.com/documentation/xctest"
+      },
+      {
+        "nombre": "Espresso",
+        "version": "3.4.0",
+        "enlace": "https://developer.android.com/training/testing/espresso"
+      },
+      {
+        "nombre": "Robot Framework",
+        "version": "5.2.4",
+        "enlace": "https://robotframework.org/"
+      },
+      {
+        "nombre": "TestComplete",
+        "version": "15.10",
+        "enlace": "https://smartbear.com/product/testcomplete/overview/"
+      },
+      {
+        "nombre": "Appium",
+        "version": "2.4.1",
+        "enlace": "http://appium.io/"
+      },
+      {
+        "nombre": "TestProject",
+        "version": "3.8.0",
+        "enlace": "https://testproject.io/"
+      },
+      {
+        "nombre": "Zephyr",
+        "version": "10.6",
+        "enlace": "https://www.getzephyr.com/"
+      },
+      {
+        "nombre": "TestRail",
+        "version": "5.11",
+        "enlace": "https://www.gurock.com/testrail/"
+      },
+      {
+        "nombre": "JIRA",
+        "version": "8.17.0",
+        "enlace": "https://www.atlassian.com/software/jira"
+      },
+      {
+        "nombre": "TestLink",
+        "version": "1.9.20",
+        "enlace": "http://testlink.org/"
+      },
+      {
+        "nombre": "Redmine",
+        "version": "5.1.2",
+        "enlace": "https://www.redmine.org/"
+      },
+      {
+        "nombre": "Mantis",
+        "version": "2.25.2",
+        "enlace": "https://www.mantisbt.org/"
+      },
+      {
+        "nombre": "TestNG",
+        "version": "7.4.0",
+        "enlace": "https://testng.org/"
+      },
+      {
+        "nombre": "JUnit",
+        "version": "5.8.0",
+        "enlace": "https://junit.org/junit5/"
+      },
+      {
+        "nombre": "RSpec",
+        "version": "3.10.0",
+        "enlace": "https://rspec.info/"
+      },
+      {
+        "nombre": "PHPUnit",
+        "version": "10.0.7",
+        "enlace": "https://phpunit.de/"
+      },
+      {
+        "nombre": "Karma",
+        "version": "6.3.8",
+        "enlace": "https://karma-runner.github.io/"
+      },
+      {
+        "nombre": "Jest",
+        "version": "27.0.6",
+        "enlace": "https://jestjs.io/"
+      },
+      {
+        "nombre": "Mocha",
+        "version": "9.1.2",
+        "enlace": "https://mochajs.org/"
+      },
+      {
+        "nombre": "Cypress",
+        "version": "8.3.1",
+        "enlace": "https://www.cypress.io/"
+      },
+      {
+        "nombre": "Enzyme",
+        "version": "3.11.0",
+        "enlace": "https://enzymejs.github.io/enzyme/"
+      },
+      {
+        "nombre": "Robot Framework",
+        "version": "5.2.4",
+        "enlace": "https://robotframework.org/"
+      },
+      {
+        "nombre": "TestComplete",
+        "version": "15.10",
+        "enlace": "https://smartbear.com/product/testcomplete/overview/"
+      },
+      {
+        "nombre": "Appium",
+        "version": "2.4.1",
+        "enlace": "http://appium.io/"
+      },
+      {
+        "nombre": "TestProject",
+        "version": "3.8.0",
+        "enlace": "https://testproject.io/"
+      },
+      {
+        "nombre": "Zephyr",
+        "version": "10.6",
+        "enlace": "https://www.getzephyr.com/"
+      },
+      {
+        "nombre": "TestRail",
+        "version": "5.11",
+        "enlace": "https://www.gurock.com/testrail/"
+      },
+      {
+        "nombre": "JIRA",
+        "version": "8.17.0",
+        "enlace": "https://www.atlassian.com/software/jira"
+      },
+      {
+        "nombre": "TestLink",
+        "version": "1.9.20",
+        "enlace": "http://testlink.org/"
+      },
+      {
+        "nombre": "Redmine",
+        "version": "5.1.2",
+        "enlace": "https://www.redmine.org/"
+      },
+      {
+        "nombre": "Mantis",
+        "version": "2.25.2",
+        "enlace": "https://www.mantisbt.org/"
+      },
+      {
+        "nombre": "TestNG",
+        "version": "7.4.0",
+        "enlace": "https://testng.org/"
+      },
+      {
+        "nombre": "JUnit",
+        "version": "5.8.0",
+        "enlace": "https://junit.org/junit5/"
+      },
+      {
+        "nombre": "RSpec",
+        "version": "3.10.0",
+        "enlace": "https://rspec.info/"
+      },
+      {
+        "nombre": "PHPUnit",
+        "version": "10.0.7",
+        "enlace": "https://phpunit.de/"
+      },
+      {
+        "nombre": "Karma",
+        "version": "6.3.8",
+        "enlace": "https://karma-runner.github.io/"
+      },
+      {
+        "nombre": "Jest",
+        "version": "27.0.6",
+        "enlace": "https://jestjs.io/"
+      },
+      {
+        "nombre": "Mocha",
+        "version": "9.1.2",
+        "enlace": "https://mochajs.org/"
+      },
+      {
+        "nombre": "Cypress",
+        "version": "8.3.1",
+        "enlace": "https://www.cypress.io/"
+      },
+      {
+        "nombre": "Enzyme",
+        "version": "3.11.0",
+        "enlace": "https://enzymejs.github.io/enzyme/"
+      },
+      {
+        "nombre": "Robot Framework",
+        "version": "5.2.4",
+        "enlace": "https://robotframework.org/"
+      },
+      {
+        "nombre": "TestComplete",
+        "version": "15.10",
+        "enlace": "https://smartbear.com/product/testcomplete/overview/"
+      },
+      {
+        "nombre": "Appium",
+        "version": "2.4.1",
+        "enlace": "http://appium.io/"
+      },
+      {
+        "nombre": "TestProject",
+        "version": "3.8.0",
+        "enlace": "https://testproject.io/"
+      },
+      {
+        "nombre": "Zephyr",
+        "version": "10.6",
+        "enlace": "https://www.getzephyr.com/"
+      },
+      {
+        "nombre": "TestRail",
+        "version": "5.11",
+        "enlace": "https://www.gurock.com/testrail/"
+      },
+      {
+        "nombre": "JIRA",
+        "version": "8.17.0",
+        "enlace": "https://www.atlassian.com/software/jira"
+      },
+      {
+        "nombre": "TestLink",
+        "version": "1.9.20",
+        "enlace": "http://testlink.org/"
+      },
+      {
+        "nombre": "Redmine",
+        "version": "5.1.2",
+        "enlace": "https://www.redmine.org/"
+      },
+      {
+        "nombre": "Mantis",
+        "version": "2.25.2",
+        "enlace": "https://www.mantisbt.org/"
+      },
+      {
+        "nombre": "TestNG",
+        "version": "7.4.0",
+        "enlace": "https://testng.org/"
+      },
+      {
+        "nombre": "JUnit",
+        "version": "5.8.0",
+        "enlace": "https://junit.org/junit5/"
+      },
+      {
+        "nombre": "RSpec",
+        "version": "3.10.0",
+        "enlace": "https://rspec.info/"
+      },
+      {
+        "nombre": "PHPUnit",
+        "version": "10.0.7",
+        "enlace": "https://phpunit.de/"
+      },
+      {
+        "nombre": "Karma",
+        "version": "6.3.8",
+        "enlace": "https://karma-runner.github.io/"
+      },
+      {
+        "nombre": "Jest",
+        "version": "27.0.6",
+        "enlace": "https://jestjs.io/"
+      },
+      {
+        "nombre": "Mocha",
+        "version": "9.1.2",
+        "enlace": "https://mochajs.org/"
+      },
+      {
+        "nombre": "Cypress",
+        "version": "8.3.1",
+        "enlace": "https://www.cypress.io/"
+      },
+      {
+        "nombre": "Enzyme",
+        "version": "3.11.0",
+        "enlace": "https://enzymejs.github.io/enzyme/"
+      },
+      {
+        "nombre": "Robot Framework",
+        "version": "5.2.4",
+        "enlace": "https://robotframework.org/"
+      },
+      {
+        "nombre": "TestComplete",
+        "version": "15.10",
+        "enlace": "https://smartbear.com/product/testcomplete/overview/"
+      },
+      {
+        "nombre": "Appium",
+        "version": "2.4.1",
+        "enlace": "http://appium.io/"
+      },
+      {
+        "nombre": "TestProject",
+        "version": "3.8.0",
+        "enlace": "https://testproject.io/"
+      },
+      {
+        "nombre": "Zephyr",
+        "version": "10.6",
+        "enlace": "https://www.getzephyr.com/"
+      },
+      {
+        "nombre": "TestRail",
+        "version": "5.11",
+        "enlace": "https://www.gurock.com/testrail/"
+      },
+      {
+        "nombre": "JIRA",
+        "version": "8.17.0",
+        "enlace": "https://www.atlassian.com/software/jira"
+      },
+      {
+        "nombre": "TestLink",
+        "version": "1.9.20",
+        "enlace": "http://testlink.org/"
+      },
+      {
+        "nombre": "Redmine",
+        "version": "5.1.2",
+        "enlace": "https://www.redmine.org/"
+      },
+      {
+        "nombre": "Mantis",
+        "version": "2.25.2",
+        "enlace": "https://www.mantisbt.org/"
+      },
+      {
+        "nombre": "TestNG",
+        "version": "7.4.0",
+        "enlace": "https://testng.org/"
+      },
+      {
+        "nombre": "JUnit",
+        "version": "5.8.0",
+        "enlace": "https://junit.org/junit5/"
+      },
+      {
+        "nombre": "RSpec",
+        "version": "3.10.0",
+        "enlace": "https://rspec.info/"
+      },
+      {
+        "nombre": "PHPUnit",
+        "version": "10.0.7",
+        "enlace": "https://phpunit.de/"
+      },
+      {
+        "nombre": "Karma",
+        "version": "6.3.8",
+        "enlace": "https://karma-runner.github.io/"
+      },
+      {
+        "nombre": "Jest",
+        "version": "27.0.6",
+        "enlace": "https://jestjs.io/"
+      },
+      {
+        "nombre": "Mocha",
+        "version": "9.1.2",
+        "enlace": "https://mochajs.org/"
+      },
+      {
+        "nombre": "Cypress",
+        "version": "8.3.1",
+        "enlace": "https://www.cypress.io/"
+      },
+      {
+        "nombre": "Enzyme",
+        "version": "3.11.0",
+        "enlace": "https://enzymejs.github.io/enzyme/"
+      },
+      {
+        "nombre": "Robot Framework",
+        "version": "5.2.4",
+        "enlace": "https://robotframework.org/"
+      },
+      {
+        "nombre": "TestComplete",
+        "version": "15.10",
+        "enlace": "https://smartbear.com/product/testcomplete/overview/"
+      },
+      {
+        "nombre": "Appium",
+        "version": "2.4.1",
+        "enlace": "http://appium.io/"
+      },
+      {
+        "nombre": "TestProject",
+        "version": "3.8.0",
+        "enlace": "https://testproject.io/"
+      },
+      {
+        "nombre": "Zephyr",
+        "version": "10.6",
+        "enlace": "https://www.getzephyr.com/"
+      },
+      {
+        "nombre": "TestRail",
+        "version": "5.11",
+        "enlace": "https://www.gurock.com/testrail/"
+      },
+      {
+        "nombre": "JIRA",
+        "version": "8.17.0",
+        "enlace": "https://www.atlassian.com/software/jira"
+      },
+      {
+        "nombre": "TestLink",
+        "version": "1.9.20",
+        "enlace": "http://testlink.org/"
+      },
+      {
+        "nombre": "Redmine",
+        "version": "5.1.2",
+        "enlace": "https://www.redmine.org/"
+      },
+      {
+        "nombre": "Mantis",
+        "version": "2.25.2",
+        "enlace": "https://www.mantisbt.org/"
+      },
+      {
+        "nombre": "TestNG",
+        "version": "7.4.0",
+        "enlace": "https://testng.org/"
+      },
+      {
+        "nombre": "JUnit",
+        "version": "5.8.0",
+        "enlace": "https://junit.org/junit5/"
+      },
+      {
+        "nombre": "RSpec",
+        "version": "3.10.0",
+        "enlace": "https://rspec.info/"
+      },
+      {
+        "nombre": "PHPUnit",
+        "version": "10.0.7",
+        "enlace": "https://phpunit.de/"
+      },
+      {
+        "nombre": "Karma",
+        "version": "6.3.8",
+        "enlace": "https://karma-runner.github.io/"
+      },
+      {
+        "nombre": "Jest",
+        "version": "27.0.6",
+        "enlace": "https://jestjs.io/"
+      },
+      {
+        "nombre": "Mocha",
+        "version": "9.1.2",
+        "enlace": "https://mochajs.org/"
+      },
+      {
+        "nombre": "Cypress",
+        "version": "8.3.1",
+        "enlace": "https://www.cypress.io/"
+      },
+      {
+        "nombre": "Enzyme",
+        "version": "3.11.0",
+        "enlace": "https://enzymejs.github.io/enzyme/"
+      },
+      {
+        "nombre": "Robot Framework",
+        "version": "5.2.4",
+        "enlace": "https://robotframework.org/"
+      }
+ }
+  
