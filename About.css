@@ -11,7 +11,7 @@
     --dark: rgb(254, 176, 189);
     --pure: #feefef;
     --smoke: whitesmoke;
-    --dark-gray: ;
+    --alternative: #42d2c6;
 }
 
 
@@ -73,18 +73,20 @@ body {
     background: var(--primary);
     color: var(--pure);
     outline: none;
-    padding: 8px 20px;
+    padding: 18px;
     font-size: 14px;
     cursor: pointer;
     letter-spacing: 1px;
     border: 1px solid transparent;
     transition: all .5s ease-in-out;
     margin-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .btn:hover {
-    background: pink;
-    color: white;
+    background: rgb(191, 252, 100);
+    color: #000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 main section.header {
@@ -181,6 +183,7 @@ nav ul.dropdown-list {
     pointer-events: none;
     transition: all .3s ease-in-out;
     user-select: none;
+    z-index: 1;
 }
 
 .hamburger, .brand {
@@ -238,22 +241,56 @@ nav ul.dropdown-list {
 
 }
 
-.info {
-    width: 95%;
-    height: 300px;
+.main {
+    transition: all 0.3s ease 0s;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+@keyframes mover {
+    0% { left: 0px; top: 0px; }
+    25% { left: 10px; top: 10px; }
+    50% { left: 10px; top: 10px; }
+    75% { left: 10px; top: 0px; }
+    100% { left: 0px; top: 10px; }
+  }
+  
+
+.Img1 {
+    position: relative;
+    margin: 30px;
+
+}
+
+.Img2 {
+    position: relative;
+    animation: mover 5s linear infinite;
     margin-top: 50px;
-    background-color: rgb(243, 207, 238);
-    border-radius: 20px 20px 20px 0;
-    transition: all .5s ease-in-out;
 }
 
-.info:hover {
-    transform: scale(1.1);
-    user-select: none;
+.Who {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    z-index: 0;
+    background-color: #933ded;
+    border: solid 5px white;
+    border-radius: 30px 30px 0 30px;
+    color: #fffdff;
+    font-size: 20px;
+    margin-top: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: all 0.9s ease 0s;
 }
 
-.img2 {
-    margin: 20px;
+.Who:hover {
+    background: linear-gradient(180deg,var(--dark),#fff);
+    color: #933ded;
+    transform: scale(0.9);
 }
 
 .part2 {
@@ -267,70 +304,7 @@ nav ul.dropdown-list {
     color: rgb(247, 140, 158);
 }
 
-.All {
-    width: 100%;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    color: rgb(247, 140, 158);
-}
-
-.main {
-    margin: 0 50px 0 0;
-    width: 500px;
-    color: white;
-    background-color: #b77ff3;
-    border-radius: 20px 20px 20px 0;
-    transition: all .5s ease-in-out;
-}
-
-.path {
-    margin-top: 40px;
-}
-
-.main:hover {
-    transition: all .5s ease-in-out;
-    background-color: white;
-    color: #b77ff3;
-    transform: scale(1.1);
-}
-
-li {
-    margin: 10px;
-    list-style-type: none;
-    text-align: start;
-    margin: 10px;
-  }
-
-  .correct {
-    margin-right: 10px;
-  }
-
-  .incorrect {
-    position: relative;
-    top: 8px;
-  }
-
 @media (width < 764px) {
-    .All { 
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    justify-content: space-between;
-    color: rgb(247, 140, 158);
-    }
-
-    .main {
-        margin: 0 50px 0 0;
-        width: 500px;
-        color: white;
-        background-color: #b77ff3;
-        border-radius: 20px 20px 20px 0;
-        transition: all .5s ease-in-out;
-        margin: 20px;
-    }
-
     .part2 {
         width: 110%;
         height: 200px;
@@ -343,118 +317,15 @@ li {
     }
 }
 
-.final {
-    width: 200%;
-    height: 200px;
+.text {
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
-    background: linear-gradient(95deg,#b77ff3,rgb(203, 166, 240));
-    color: white;
-    margin-top: 120px;
+    position: relative;
+    top: -90px;
 }
 
-.social-media {
-    display: flex;
-    flex-direction: row;
-    color: #17181a;
-    font-family: 'Nunito Sans', sans-serif;
-    position: relative;
-    top: 80%;
-    justify-content: center;
-   }
-  
-   .buttot {
-    min-width: 20%;
-    display: flex;
-    justify-content: space-between;
-    position: relative;
-    top: 30px;
-
-  }
-  
-  .buttot #ae {
-    width: 60px;
-    height: 60px;
-    text-decoration: none;
-    font-size: 28px;
-    line-height: 60px;
-    text-align: center;
-    background: #17181a;
-    color: #f1f1f1;
-    border-radius: 50% 50% 50% 0;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
-    transition: all .4s ease-in-out;
-  }
-  .buttot #af {
-    width: 60px;
-    height: 60px;
-    text-decoration: none;
-    font-size: 28px;
-    line-height: 60px;
-    text-align: center;
-    background: #17181a;
-    color: #f1f1f1;
-    border-radius: 50% 50% 50% 0;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
-    transition: all .4s ease-in-out;
-  }
-  
-  
-  .buttot #ai {
-    width: 60px;
-    height: 60px;
-    text-decoration: none;
-    font-size: 28px;
-    line-height: 60px;
-    text-align: center;
-    background: #17181a;
-    color: #f1f1f1;
-    border-radius: 50% 50% 50% 0;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
-    transition: all .4s ease-in-out;
-  }
-  
-  
-  
-  .buttot #ae:hover {
-    color: #fff;
-    background-color: #184fee;
-    transform: scale(1.2);
-  }
-  
-  .buttot #af:hover {
-    color: #fff;
-    background: linear-gradient(240deg,#ff11c7d4,#f789ffd4,#ff2525d4);
-    transform: scale(1.2);
-  }
-  
-  .buttot #ad:hover {
-    color: red;
-    background-color: whitesmoke;
-    transform: scale(1.2);
-  }
-  
-  .buttot #ai:hover {
-    color: red;
-    background-color: whitesmoke;
-    transform: scale(1.2);
-  }
-
-  @media (width < 764px) {
-    .final {
-        width: 110%;
-        height: 200px;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        background: linear-gradient(95deg,#b77ff3,rgb(203, 166, 240));
-        color: white;
-        margin-top: 120px;
-    }
-
-    a {
-        margin-left: 50px;
-    }
-      
-  }
+.img3 {
+    margin: 90px;
+}

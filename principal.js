@@ -11,3 +11,6 @@ navbarLinks.forEach(link => {
     navbarMenu.classList.remove('active');
   });
 });
+
+
+//Botones 
