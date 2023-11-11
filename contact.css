@@ -256,3 +256,73 @@ nav ul.dropdown-list {
     75% { left: 10px; top: 0px; }
     100% { left: 0px; top: 10px; }
   }
+
+  .Error {
+    margin-top: 70px;
+  }
+
+  form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    border: solid 5px #933ded;
+    border-radius: 20px 20px 0 20px;
+    height: 400px;
+    width: 800px;
+    transition: all 0.9s ease 0s;
+  }
+  
+  textarea {
+    margin: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 20px 20px 20px 0;
+    color: black;
+    transition: all 0.9s ease 0s;
+  }
+
+  .email {
+    width: 300px;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    transition: all 0.9s ease 0s;
+  }
+
+  @media (width < 764px) {
+    form {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 100px;
+        border: solid 5px #933ded;
+        border-radius: 20px 20px 0 20px;
+        height: 400px;
+        width: 400px;
+      }
+
+      textarea {
+        margin: 40px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        border-radius: 20px 20px 20px 0;
+        color: black;
+        width: 300px;
+      }
+    
+      
+  }
+
+  textarea:hover {
+    transform: scale(1.1);
+  }
+
+  .email:hover {
+    transform: scale(1.1);
+  }
+
+  form:hover {
+    background: linear-gradient(90deg,#5d1da1,pink);
+  }
