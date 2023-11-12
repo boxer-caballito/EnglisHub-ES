@@ -12,6 +12,7 @@
     --pure: #feefef;
     --smoke: whitesmoke;
     --alternative: #42d2c6;
+    --Button: #b773ff;
 }
 
 
@@ -70,7 +71,7 @@ body {
 }
 
 .btn {
-    background: var(--primary);
+    background: var(--Button);
     color: var(--pure);
     outline: none;
     padding: 18px;
@@ -272,12 +273,13 @@ nav ul.dropdown-list {
     height: 400px;
     width: 800px;
     transition: all 0.9s ease 0s;
+    background-color: #933ded;
   }
   
   textarea {
     margin: 40px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    border-radius: 20px 20px 20px 0;
+    border-radius: 0 20px 20px 20px;
     color: black;
     transition: all 0.9s ease 0s;
   }
@@ -307,7 +309,6 @@ nav ul.dropdown-list {
       textarea {
         margin: 40px;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-        border-radius: 20px 20px 20px 0;
         color: black;
         width: 300px;
       }
@@ -317,12 +318,10 @@ nav ul.dropdown-list {
 
   textarea:hover {
     transform: scale(1.1);
+    border: solid 10px rgb(191, 252, 100);
   }
 
   .email:hover {
     transform: scale(1.1);
-  }
-
-  form:hover {
-    background: linear-gradient(90deg,#5d1da1,pink);
+    border: solid 10px rgb(191, 252, 100);
   }
