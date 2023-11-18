@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EnglisHub</title>
+    <link rel="stylesheet" href="compras.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body class="mobile">
+    <nav>
+        <div class="container nav-wrapper">
+            <div class="brand">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                    <path
+                        d="M10.5 10a2.5 2.5 0 1 1-5.001-.001A2.5 2.5 0 0 1 10.5 10zM16 4v12c0 1.1-.9 2-2 2H2c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h12c1.1 0 2 .9 2 2zm-3.5 6a4.5 4.5 0 1 0-9 0 4.5 4.5 0 0 0 9 0zm6.715-4.914L17 6.562v7l2.215 1.477a.505.505 0 0 0 .785-.42V5.506a.505.505 0 0 0-.785-.42z" />
+                </svg>
+                <span><strong>EnglisHub</strong></span>
+            </div>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <ul class="nav-list">
+                <li class="active">
+                    <a href="#">Home</a>
+                </li>
+                <li><a href="About.html">About</a></li>
+                <li>
+                    <a href="#">Services</a>
+                    <ul class="dropdown-list">
+                        <li><a href="#">Curses</a></li>
+                    </ul>
+                </li>
+                <li><a href="contact.html">Contact</a></li>
+                <li>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <main>
+        <section class="header container">
+            <div class="containerBuy">
+                <img src="https://www.svgrepo.com/show/422425/buy-cart-ecommerce.svg" width="200px" height="auto" class="img1">
+                <div class="alineadorText">
+                <h1>paquete basico</h1>
+                <hr>
+                <br>
+                <p>Precio: 10USD</p>
+                <p>Impuestos: 1USD</p>
+                <br>
+                <hr>
+                <br>
+                <p>total: 11USD al mes</p>
+                <button class="btn" onclick="moving()">procesar compra</button>
+                </div>
+            </div>
+            <div>
+                <button class="exit" onclick="change()">cancelar y volver</button>
+            </div>
+        </section>
+    </main>
+    <script src="compras.js"></script>
+ </body>
+</html>

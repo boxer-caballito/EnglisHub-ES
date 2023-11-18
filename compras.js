@@ -1,4 +1,3 @@
-
 window.addEventListener('resize', function(){
     addRequiredClass();
 })
@@ -38,15 +37,35 @@ hamburger.addEventListener('click', function() {
 
 })
 
+function change() {
+    window.location.href= "principal.html"
+}
 
-function change () {
-    window.location.href= "compras.html"
-  }
+const Req = (node) => {
+    return new Promise(resolve => {
+        setTimeout(() => {
+            resolve("Proceso ejecutando...")
+        },2000)
+    })
+}
 
-  function change1 () {
-    window.location.href= "compras1.html"
-  }
+const Req1 = (node) => {
+    new Promise(resolve => {
+        setTimeout(() => {
+            resolve("Proceso ejecutando...")
+        },1000)
+    })
+}
 
-  function Alert () {
-    alert("Es su plan actual");
-  }
+async function moving () {
+    try {
+        let procesing = await Req1();
+        alert("procesando peticion");
+        alert("puerto 3000 HTTP GITHUB HOST")
+        let Click = await Req();
+        alert("seccion en construccion...")
+    }catch (err){
+        console.log(err)
+    }
+}
+
