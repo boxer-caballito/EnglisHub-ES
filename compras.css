@@ -250,6 +250,7 @@ nav ul.dropdown-list {
 .alineadorText {
     display: flex;
     flex-direction: column;
+    z-index: -1;
 
 }
 
@@ -273,7 +274,7 @@ nav ul.dropdown-list {
 
 @media (width < 764px ) {
     .containerBuy {
-        width: 50vh;
+        width: 42vh;
         display: flex;
         flex-direction: row;
         justify-content: space-around;
@@ -284,7 +285,8 @@ nav ul.dropdown-list {
     display: flex;
     flex-direction: column;
     position: relative;
-    left: -25px;
+    left: -45px;
+    z-index: -1;
     }
 }
 

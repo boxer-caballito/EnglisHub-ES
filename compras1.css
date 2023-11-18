@@ -19,6 +19,7 @@ body {
     font-family: 'Lato', sans-serif;
     background: var(--dark);
     color: var(--pure);
+    z-index: 0;
 }
 
 .container {
@@ -250,6 +251,7 @@ nav ul.dropdown-list {
 .alineadorText {
     display: flex;
     flex-direction: column;
+    z-index: -1;
 
 }
 
@@ -267,13 +269,14 @@ nav ul.dropdown-list {
     flex-direction: column;
     position: relative;
     left: -25px;
+    z-index: -1;
     }
 }
 
 
 @media (width < 764px ) {
     .containerBuy {
-        width: 50vh;
+        width: 42vh;
         display: flex;
         flex-direction: row;
         justify-content: space-around;
@@ -284,7 +287,7 @@ nav ul.dropdown-list {
     display: flex;
     flex-direction: column;
     position: relative;
-    left: -25px;
+    left: -45px;
     }
 }
 
