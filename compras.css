@@ -281,13 +281,14 @@ nav ul.dropdown-list {
         align-items: center;
         box-shadow: 10px 10px 10px 5px #888888;
     }
-    .alineadorText{
-    display: flex;
-    flex-direction: column;
-    position: relative;
-    left: -65px;
-    }
 
+    .alineadorText{
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        left: -65px;
+        }
+        
     .img1 {
         display: flex;
         flex-direction: row;
