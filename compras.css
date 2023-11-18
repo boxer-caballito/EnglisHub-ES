@@ -181,6 +181,7 @@ nav ul.dropdown-list {
     pointer-events: none;
     transition: all .3s ease-in-out;
     user-select: none;
+    z-index: 2;
 }
 
 .hamburger, .brand {
@@ -250,7 +251,6 @@ nav ul.dropdown-list {
 .alineadorText {
     display: flex;
     flex-direction: column;
-    z-index: -1;
 
 }
 
@@ -285,9 +285,19 @@ nav ul.dropdown-list {
     display: flex;
     flex-direction: column;
     position: relative;
-    left: -45px;
-    z-index: -1;
+    left: -65px;
     }
+
+    .img1 {
+        display: flex;
+        flex-direction: row;
+        user-select: none;
+        margin: 90px;
+        width: 120px;
+        position: relative;
+        left: -45px;
+    }
+    
 }
 
 .exit {
